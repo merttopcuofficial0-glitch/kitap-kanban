@@ -2,9 +2,8 @@
 
 Okumak istediğim, şu an okuduğum ve bitirdiğim kitapları **Okunacak / Okunuyor / Bitti** sütunlarında takip ettiğim küçük bir kanban uygulaması. Web Geliştirme; Yapay Zeka eğitim programının proje ödevi olarak hazırladım.
 
-- **Canlı site:** `CANLI-LİNKİ-BURAYA-YAZ`
-- **GitHub:** `GITHUB-DEPO-LİNKİNİ-BURAYA-YAZ`
-
+- **Canlı site:** https://6ae72094567c8a1c84787801--sage-kleicha-cf6211.netlify.app/
+- **GitHub:** https://github.com/merttopcuofficial0-glitch/kitap-kanban
 ![Kitap Kanban ekran görüntüsü](docs/ekran-goruntusu.png)
 
 ## Özellikler
