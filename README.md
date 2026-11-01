@@ -2,8 +2,9 @@
 
 Okumak istediğim, şu an okuduğum ve bitirdiğim kitapları **Okunacak / Okunuyor / Bitti** sütunlarında takip ettiğim küçük bir kanban uygulaması. Web Geliştirme; Yapay Zeka eğitim programının proje ödevi olarak hazırladım.
 
-- **Canlı site:** https://6ae72094567c8a1c84787801--sage-kleicha-cf6211.netlify.app/
-- **GitHub:** https://github.com/merttopcuofficial0-glitch/kitap-kanban
+- **Canlı site:** https://sage-kleicha-cf6211.netlify.app
+- **GitHub:** https://github.com/merttopcuofficial0-glitch/kitap-kanbangit add .
+git push  https://github.com/merttopcuofficial0-glitch/kitap-kanban
 ![Kitap Kanban ekran görüntüsü](docs/ekran-goruntusu.png)
 
 ## Özellikler
@@ -29,7 +30,7 @@ Okumak istediğim, şu an okuduğum ve bitirdiğim kitapları **Okunacak / Okunu
 Node.js yüklü olmalı.
 
 ```bash
-git clone GITHUB-DEPO-LİNKİNİ-BURAYA-YAZ
+git clone https://github.com/merttopcuofficial0-glitch/kitap-kanban.git
 cd kitap-kanban
 
 # Bağımlılıkları kur
